@@ -8,6 +8,7 @@ Android App for setting continuous timer
  Google Play Store Link:
  - https://play.google.com/store/apps/details?id=com.meet.android.mytimer
  
+ Screenshots below: 
 
 ![1](https://github.com/pandyama/Buzr/blob/master/Capture.PNG)
 
