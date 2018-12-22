@@ -5,7 +5,8 @@ Android App for setting continuous timer
  - Select the days of the week, during which you would like this timer to be active
  
  **NOW THIS APP IS CONVERTED USING FLUTTER** <br/>
- Check "Buzr-Flutter-App" repository for more information
+ Check "Buzr-Flutter-App" repository for more information <br/>
+ https://github.com/pandyama/Buzr-Flutter-App
  
  Screenshots below: 
 
