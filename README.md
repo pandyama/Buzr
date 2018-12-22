@@ -4,9 +4,8 @@ Android App for setting continuous timer
  - Select the interval, which is how often you would like the timer to go off
  - Select the days of the week, during which you would like this timer to be active
  
- 
- Google Play Store Link:
- - https://play.google.com/store/apps/details?id=com.meet.android.mytimer
+ *NOW THIS APP IS CONVERTED USING FLUTTER*
+ Check "Buzr-Flutter-App" repository for more information
  
  Screenshots below: 
 
